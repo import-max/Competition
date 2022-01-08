@@ -1,5 +1,8 @@
 # handSignalPrediction
-hand signal prediction project for Dacon
+[Vision]
+[2021 교통 수(手)신호 동작 인식 AI 경진대회](https://dacon.io/competitions/official/235806/overview/description)
+
+
 
 ## Classification Approach
 |Model         |log_loss|option|
